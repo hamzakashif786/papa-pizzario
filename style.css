@@ -1,0 +1,113 @@
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.main-img{
+    width: 100%;
+}
+body{
+    overflow-x: hidden;
+}
+
+
+.wrapper{
+    background: linear-gradient(180deg, rgb(156, 154, 154), rgb(253, 253, 253));;
+}
+.card{
+    background-color: rgb(214, 214, 214);
+}
+.last{
+    font-size: 11px;
+    
+}
+
+.history{
+width: 100%;
+
+}
+
+.about {
+    text-align: center;
+    padding: 5% 7% 10% 7%;
+}
+
+.a-img{
+    height: 360px;
+}
+.his{
+
+    padding-top: 200px;
+    padding-left: 10%;
+    
+
+}
+.abc{
+    padding-top: 40px;
+}
+.con{
+    padding-top: 50px;
+}
+
+.call{
+font-size: 15px;
+
+
+}
+.deals{
+    font-weight: 700;
+}
+
+.soon{
+    padding-top: 20px;
+}
+
+.mid{
+    padding-top: 100px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 20px;
+}
+.img{
+    width: 50%;
+    
+}
+.box{
+    padding-left: 250px;
+   padding-bottom: 10%;
+}
+.l-s{
+    font-size: 20px;
+}
+.l-s-m{
+    padding: 25% 0% 10% 30%;
+}
+.l-img{
+    padding-left: 10px;
+    width: 40px;
+    height: 40px;
+}
+.cp
+{
+    display: flex;
+    flex: 2;
+
+}
+.cp-m{
+    padding-top: 10px;
+    
+}
+.last{
+    font-size: 10px;
+    padding: 2px 5px;
+    border-right: 2px solid white;
+
+}
+.cp-ri8{
+flex: 3;
+}
+
+
+.xyz{
+    height: 450px;
+    width: 450px;
+}
